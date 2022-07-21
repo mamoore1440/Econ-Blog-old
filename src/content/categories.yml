@@ -1,4 +1,28 @@
 categories:
-  - title: Portfolio
-    slug: portfolio
-    description:
+  - title: Foundational Information
+    slug: foundational-information
+    description: "All Articles here are for basic understanding of a product, entity, or system."
+  - title: Yields
+    slug: yields
+    description: "Section for Yields, yield curve, QE, YCC, and all effects on an economy."
+  - title: Psychology 
+    slug: psychology
+    description: "What is the wealth effect? Why are markets irrational? What makes the stock market hard to predict? Why do financial bubbles happen?"
+  - title: The Flations
+    slug: the-flations
+    description: "Inflation, Deflation, Dis-inflation, or Reflation?"
+  - title: Economics of Nations
+    slug: economics-of-nations
+    description: "Demographics are destiny!"
+  - title: Debt
+    slug: debt
+    description: "Sweet then Sour. Debt Cycles, Debt traps, Credit crises, and real world examples (RIP Europe and China)."
+
+
+#Topics to talk about:
+# -How a countries politics and economy are linked at the hip
+# -Why recessions are unfortunately necesarry at times 
+# -Global trade
+# -Reserve currency history (USA #1!!!!)
+# -Dichotomy of a bubble
+# -DEBT 

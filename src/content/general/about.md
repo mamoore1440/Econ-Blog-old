@@ -1,1 +1,4 @@
-Enter your bio here. See [cal-overflow's bio](https://github.com/cal-overflow/site/blob/master/src/content/general/about.md?plain=1) as a reference.
+WRITE BIO LATER.
+
+
+<!-- Update about.md, blog-preview.md, and portfolio-preview.md (maybe). Most likely just like github? -->
