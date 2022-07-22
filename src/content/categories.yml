@@ -13,10 +13,13 @@ categories:
     description: "Inflation, Deflation, Dis-inflation, or Reflation?"
   - title: Economics of Nations
     slug: economics-of-nations
-    description: "Demographics are destiny!"
+    description: "Capitalism, Socialism, or Communism? Command or free markets? Inequality and Demographics."
   - title: Debt
     slug: debt
-    description: "Sweet then Sour. Debt Cycles, Debt traps, Credit crises, and real world examples (RIP Europe and China)."
+    description: "Sweet then Sour. Debt Cycles, Debt Traps, Credit Crises, and real world examples (RIP Europe and China)."
+  - title: Investing
+    slug: investing
+    description: "Section for Yields, yield curve, QE, YCC, and all effects on an economy."
 
 
 #Topics to talk about:
