@@ -30,7 +30,7 @@ describe('FooterBar component', () => {
   });
 
   it('renders a NavItem for each of the links', () => {
-    expect(wrapper.findAllComponents(NavItem)).toHaveLength(3);
+    expect(wrapper.findAllComponents(NavItem)).toHaveLength(2);
   });
 
   it('renders a NavItem for the blog page', () => {

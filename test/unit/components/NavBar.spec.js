@@ -31,7 +31,7 @@ describe('NavBar component', () => {
   });
 
   it('renders a NavItem for each of the links', () => {
-    expect(wrapper.findAllComponents(NavItem)).toHaveLength(3);
+    expect(wrapper.findAllComponents(NavItem)).toHaveLength(2);
   });
 
   it('correctly renders the NavItem for the signature header (home page)', () => {

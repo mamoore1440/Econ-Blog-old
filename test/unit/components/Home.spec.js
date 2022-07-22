@@ -52,7 +52,7 @@ describe('Home component', () => {
   });
 
   it('contains two PagePreview components', () => {
-    expect(wrapper.findAllComponents(PagePreview)).toHaveLength(2);
+    expect(wrapper.findAllComponents(PagePreview)).toHaveLength(1);
   });
 
   // it('passes the portfolio content into one of the PagePreview components', () => {
@@ -60,6 +60,6 @@ describe('Home component', () => {
   // });
 
   it('passes the blogPreview content into one of the PagePreview components', () => {
-    expect(wrapper.findAllComponents(PagePreview).wrappers[1].props('content')).toMatchObject(blogPreview);
+    expect(wrapper.findAllComponents(PagePreview).wrappers[0].props('content')).toMatchObject(blogPreview);
   });
 });
