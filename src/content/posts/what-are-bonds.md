@@ -38,7 +38,7 @@ categories:
   - Note: 2.5% comes from (5%/(12months/6months)).<br>
 - Another 6 months later you will receive a 2.5% yield or $25 coupon. 
   - This is the end of the first year. 
-  - You will have a 5% yield bond maturing in 1 year for $1000 and $50 from earlier coupons.<br> 
+  - At this point you will have a 5% yield bond maturing in 1 year for $1000 and $50 from earlier coupons.<br> 
 - Another 6 months later you will receive a 2.5% yield or $25 coupon.<br>
 - Another 6 months later your bond will mature and you will receive your last coupon. 
   - Today you receive your $1000 principal and your final $25 coupon bringing your total up to $1100. 
@@ -48,7 +48,7 @@ Congratulations, you are an investor!</p>
 
 ### Where are bonds found?:
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Almost any entity that borrows money will be working with bonds. Companies offer bonds, Governments offer bonds, hell when you get a mortgage from a bank it is owned in the form of a mortgage bond. The typical retirement portfolio consists of 60% bonds and 40% equities. This is so common place that it is called the 60-40 portfolio. Bonds from a blue chip companies will be called blue chip bonds. Bonds from governments are called government bonds. The vast majority of the time if your dealing with debt you are dealing with bonds.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Almost any entity that borrows money will be working with bonds. Companies offer bonds, Governments offer bonds, hell when you get a mortgage from a bank it is owned in the form of a mortgage bond. The typical retirement portfolio consists of 60% bonds and 40% equities. This is so common place that it is called the 60-40 portfolio. Bonds from a blue chip companies will be called blue chip bonds. Bonds from governments are called government bonds. The vast majority of the time if you're dealing with debt you are dealing with bonds.</p>
 
 <p>But why even deal with bonds in the first place? Doesn't the government get money from taxes? Don't companies get money by selling products or services? Can't they use that money when buying products or services? Well they could, but that would be inefficient and sometimes it's better for capital to be allocated in debt. Now I'm not going to get into capital allocation or economic efficiency because they are topics that are very advanced. All you need to know is that to fund current projects-which may or may not be needed-the entity (company, government, etc) may need to borrow cash. When the entity starts borrowing then it becomes a gamble for the giver/creditor. Do they get a return? Are they throwing money away? Will the borrower just leave them in the dust? To answer these questions a framework is put in place. Firstly, laws binding borrowers to bond contracts is created. Next a bond credit rating is placed on the borrower. And to top it all off the creditor will only offer capital in exchange for a bond if the yield suits them. No one is forced to buy a bond they don't want.</p>
 <br>
@@ -72,7 +72,7 @@ Congratulations, you are an investor!</p>
 
 AA through B all have + and - possibilities too. So for instance it is possible can have a rating of AA+, B-, BBB+, A-, or just AA.<br>
 
-Why then would someone buy a bond from a CC credit rated entity when they could buy a bond from a AA credit rated entity? Well it's simple really. The lower the potential borrower's bond credit rating is the higher the yield the potential borrower will have to offer to become a borrower. No one wants to lose their investment, so there will always be a reason for investors to be cautious and seek safety. They will thus climb the ratings ladder to the highest bond credit rating for their investment (AAA). A potential borrower-as a CC rated entity-needs to entice investors to their bonds. How do they do it? Offer more money! In this case it come in the form of higher yields.
+Why then, would someone buy a bond from a CC credit rated entity when they could buy a bond from a AA credit rated entity? Well it's simple really. The lower the potential borrower's bond credit rating is the higher the yield the potential borrower will have to offer to become a borrower. No one wants to lose their investment, so there will always be a reason for investors to be cautious and seek safety. They will thus climb the ratings ladder to the highest bond credit rating for their investment (AAA). A potential borrower-as a CC rated entity-needs to entice investors to their bonds. How do they do it? Offer more money! In this case it come in the form of higher yields.
 
 Because I just briefly talked about the credit rating I am going to link the wikipedia page for it [here](https://en.wikipedia.org/wiki/Bond_credit_rating). You may want to check out the Criticisms section of the wikipedia page. This rating system has flaws and at times they are <b>massive</b>.
 </p>
