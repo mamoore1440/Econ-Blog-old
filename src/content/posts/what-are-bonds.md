@@ -54,9 +54,9 @@ Congratulations, you are an investor!</p>
 
 ### What are bond credit ratings?:
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To avoid letting the vast majority of creditors loan to entities without a basic risk acknowledgement a bond credit rating system is put in place. It is important for this system to be put in place otherwise a nation will have credit crisis more often, and for the sake of a nation's health a credit crises is to be avoided at almost any cost. Putting a basic bond credit rating is a very cheap cost to avoid a large portion of credit crises. As far as I know the entire world uses this bond credit rating system.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To avoid letting the vast majority of creditors loan to entities without a basic risk acknowledgement a bond credit rating system is put in place. It is important for this system to be put in place otherwise a nation will have credit crisis more often, and for the sake of a nation's health a credit crises is to be avoided at almost any cost. Putting a basic bond credit rating is a very cheap cost to avoid a large portion of credit crises. As far as I know the entire world uses this bond credit rating system. To receive a rating from one of the Big Three credit rating agencies (Moody's, S&P, Fitch aka the "Big Three") a borrower has to pay a fee. This is a conflict of interest which at times is a problem. Why would a borrower not "shop" around for a rating which favors them?</p>
 
-<p> A borrower can be given a rating on a AAA to D scale. The big three credit rating agencies (Moody's, S&P, Fitch aka the "Big Three") all have their own spin on it but essentially here is the scale where AAA means there is a ~0% chance of default while a D means they have defaulted in some way. To receive a rating from one of the Big Three a borrower has to pay a fee. This is a conflict of interest which at time is a problem. Why would a borrower not "shop" around for a rating which favors them?
+<p> A borrower can be given a rating on a AAA to D scale. The Big Three all have their own spin on it but essentially here is the scale where AAA means there is a ~0% chance of default while a D means they have defaulted in some way.
 
 - AAA
 - AA
