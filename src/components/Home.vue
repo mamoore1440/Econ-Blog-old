@@ -27,7 +27,7 @@
 
 
     <div class="flex max-w-screen-lg mx-auto flex-wrap md:flex-nowrap">
-      <page-preview :content="portfolioPreview" class="motion-safe:animate-fade-in" />
+      <!-- <page-preview :content="portfolioPreview" class="motion-safe:animate-fade-in" /> -->
       <page-preview :content="blogPreview" class="motion-safe:animate-fade-in" />
     </div>
   </div>
@@ -46,10 +46,10 @@ export default {
       type: Object,
       default: undefined
     },
-    portfolioPreview: {
-      type: Object,
-      default: undefined
-    },
+    // portfolioPreview: {
+    //   type: Object,
+    //   default: undefined
+    // },
     blogPreview: {
       type: Object,
       default: undefined

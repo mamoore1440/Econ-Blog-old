@@ -51,7 +51,8 @@ export default {
   },
   computed: {
     currentPage() {
-      return this.category?.title === 'Portfolio' ? 'Portfolio' : 'Blog';
+      // return this.category?.title === 'Portfolio' ? 'Portfolio' : 'Blog';
+      return 'Blog';
     }
   }
 };

@@ -46,10 +46,10 @@ export default {
         title: 'Blog',
         href: '/blog'
       },
-      {
-        title: 'Portfolio',
-        href: '/category/portfolio'
-      },
+      // {
+      //   title: 'Portfolio',
+      //   href: '/category/portfolio'
+      // },
       {
         title: 'Contact',
         href: '/contact'

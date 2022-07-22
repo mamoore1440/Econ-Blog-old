@@ -65,9 +65,9 @@ describe('index page', () => {
     expect(wrapper.findComponent(Home).props('bio')).toMatchObject(bio);
   });
 
-  it('passes the portfolio content into the home component', () => {
-    expect(wrapper.findComponent(Home).props('portfolioPreview')).toMatchObject(portfolio);
-  });
+  // it('passes the portfolio content into the home component', () => {
+  //   expect(wrapper.findComponent(Home).props('portfolioPreview')).toMatchObject(portfolio);
+  // });
 
   it('passes the blog content into the home component', () => {
     expect(wrapper.findComponent(Home).props('blogPreview')).toMatchObject(blog);

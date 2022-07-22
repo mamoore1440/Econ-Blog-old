@@ -163,50 +163,50 @@ describe('category page', () => {
     });
   });
 
-  describe('given a category is "Portfolio"', () => {
-    beforeEach(async () => {
-      fakeCategory = {
-        title: 'Portfolio',
-        description: chance.paragraph(),
-        slug: 'portfolio'
-      };
+  // describe('given a category is "Portfolio"', () => {
+  //   beforeEach(async () => {
+  //     fakeCategory = {
+  //       title: 'Portfolio',
+  //       description: chance.paragraph(),
+  //       slug: 'portfolio'
+  //     };
 
-      nuxtContentMock.fetch.mockImplementation(() => {
-        return {
-          catch: () => ({ categories: [fakeCategory] })
-        };
-      });
+  //     nuxtContentMock.fetch.mockImplementation(() => {
+  //       return {
+  //         catch: () => ({ categories: [fakeCategory] })
+  //       };
+  //     });
 
-      // Source: https://github.com/nuxt/docs/issues/1600#issuecomment-535994612
+  //     // Source: https://github.com/nuxt/docs/issues/1600#issuecomment-535994612
       
-      const originalData = category?.data?.() || {};
-      const data = await category.asyncData({
-        $content: () => nuxtContentMock,
-        params: {
-          pathMatch: 'portfolio',
-        },
-        error: jest.fn(),
-      });
+  //     const originalData = category?.data?.() || {};
+  //     const data = await category.asyncData({
+  //       $content: () => nuxtContentMock,
+  //       params: {
+  //         pathMatch: 'portfolio',
+  //       },
+  //       error: jest.fn(),
+  //     });
 
-      category.data = () => {
-        return { ...originalData, ...data };
-      };
+  //     category.data = () => {
+  //       return { ...originalData, ...data };
+  //     };
 
-      wrapper = shallowMount(category, {
-        stubs: {
-          'nuxt-content': true
-        }
-      });
-    });
+  //     wrapper = shallowMount(category, {
+  //       stubs: {
+  //         'nuxt-content': true
+  //       }
+  //     });
+  //   });
 
-    afterEach(jest.clearAllMocks);
+  //   afterEach(jest.clearAllMocks);
 
-    it('renders the correct current-page prop for NavBar', () => {
-      expect(wrapper.findComponent(NavBar).props('currentPage')).toEqual('Portfolio');
-    });
+  //   it('renders the correct current-page prop for NavBar', () => {
+  //     expect(wrapper.findComponent(NavBar).props('currentPage')).toEqual('Portfolio');
+  //   });
     
-    it('renders the correct current-page prop for FooterBar', () => {
-      expect(wrapper.findComponent(FooterBar).props('currentPage')).toEqual('Portfolio');
-    });
-  });
+  //   it('renders the correct current-page prop for FooterBar', () => {
+  //     expect(wrapper.findComponent(FooterBar).props('currentPage')).toEqual('Portfolio');
+  //   });
+  // });
 });

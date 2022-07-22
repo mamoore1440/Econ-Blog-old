@@ -10,10 +10,10 @@ describe('Footer bar', () => {
     cy.location('pathname').should('eq', '/blog');
   });
   
-  it('links to the portfolio page correctly', () => {
-    cy.get('#footer-bar').contains('Portfolio').click();
-    cy.location('pathname').should('eq', '/category/portfolio');
-  });
+  // it('links to the portfolio page correctly', () => {
+  //   cy.get('#footer-bar').contains('Portfolio').click();
+  //   cy.location('pathname').should('eq', '/category/portfolio');
+  // });
 
   it('links to the home page correctly', () => {
     cy.get('#footer-bar').contains('Contact').click();

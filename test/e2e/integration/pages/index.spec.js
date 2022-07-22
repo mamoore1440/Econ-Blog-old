@@ -12,9 +12,9 @@ describe('Home page', () => {
 
   it('shows the introduction card and two page-preview cards', () => {
     cy.get('#introduction-card').should('be.visible');
-    cy.get('.page-preview-card').should('have.length', 2);
+    cy.get('.page-preview-card').should('have.length', 1);
     cy.get('.page-preview-card').eq(0).should('be.visible');
-    cy.get('.page-preview-card').eq(1).should('be.visible');
+    // cy.get('.page-preview-card').eq(1).should('be.visible');
   });
 
   describe('introduction card', () => {
@@ -30,16 +30,16 @@ describe('Home page', () => {
     });
   });
 
-  describe('portfolio preview card', () => {
-    it('contains a link to the portfolio page', () => {
-      cy.get('.page-preview-card').eq(0).contains('View my work').click();
-      cy.location('pathname').should('eq', '/category/portfolio');
-    });
-  });
+  // describe('portfolio preview card', () => {
+  //   it('contains a link to the portfolio page', () => {
+  //     cy.get('.page-preview-card').eq(0).contains('View my work').click();
+  //     cy.location('pathname').should('eq', '/category/portfolio');
+  //   });
+  // });
 
   describe('blog preview card', () => {
     it('contains a link to the blog page', () => {
-      cy.get('.page-preview-card').eq(1).contains('View my blog').click();
+      cy.get('.page-preview-card').eq(0).contains('View my blog').click();
       cy.location('pathname').should('eq', '/blog');
     });
   });

@@ -55,9 +55,9 @@ describe('Home component', () => {
     expect(wrapper.findAllComponents(PagePreview)).toHaveLength(2);
   });
 
-  it('passes the portfolio content into one of the PagePreview components', () => {
-    expect(wrapper.findAllComponents(PagePreview).wrappers[0].props('content')).toMatchObject(portfolioPreview);
-  });
+  // it('passes the portfolio content into one of the PagePreview components', () => {
+  //   expect(wrapper.findAllComponents(PagePreview).wrappers[0].props('content')).toMatchObject(portfolioPreview);
+  // });
 
   it('passes the blogPreview content into one of the PagePreview components', () => {
     expect(wrapper.findAllComponents(PagePreview).wrappers[1].props('content')).toMatchObject(blogPreview);

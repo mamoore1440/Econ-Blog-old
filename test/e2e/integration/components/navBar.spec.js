@@ -20,8 +20,8 @@ describe('Nav bar', () => {
     cy.location('pathname').should('eq', '/blog');
   });
   
-  it('links to the portfolio page correctly', () => {
-    cy.contains('Portfolio').click();
-    cy.location('pathname').should('eq', '/category/portfolio');
-  });
+  // it('links to the portfolio page correctly', () => {
+  //   cy.contains('Portfolio').click();
+  //   cy.location('pathname').should('eq', '/category/portfolio');
+  // });
 });

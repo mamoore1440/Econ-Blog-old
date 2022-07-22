@@ -40,12 +40,12 @@ describe('FooterBar component', () => {
     expect(navItem.props('active')).not.toBeTruthy();
   });
 
-  it('renders a NavItem for the Portfolio page', () => {
-    const navItem = wrapper.findComponent('[title="Portfolio"]');
-    expect(navItem.exists()).toBeTruthy();
-    expect(navItem.props('href')).toEqual('/category/portfolio');
-    expect(navItem.props('active')).not.toBeTruthy();
-  });
+  // it('renders a NavItem for the Portfolio page', () => {
+  //   const navItem = wrapper.findComponent('[title="Portfolio"]');
+  //   expect(navItem.exists()).toBeTruthy();
+  //   expect(navItem.props('href')).toEqual('/category/portfolio');
+  //   expect(navItem.props('active')).not.toBeTruthy();
+  // });
 
   it('renders a NavItem for the contact page', () => {
     const navItem = wrapper.findComponent('[title="Contact"]');

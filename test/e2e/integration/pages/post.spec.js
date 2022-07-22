@@ -40,23 +40,23 @@ describe('Post page', () => {
     }
   });
 
-  it('shows the post card', () => {
-    if (postCount > 0) {
-      cy.get('#post-card').should('be.visible');
-    }
-  });
+  // it('shows the post card', () => {
+  //   if (postCount > 0) {
+  //     cy.get('#post-card').should('be.visible');
+  //   }
+  // });
   
-  it('shows the post title, feature image, and meta data', () => {
-    if (postCount > 0) {
-      cy.get('#post-title').should('be.visible');
-      cy.get('#post-metadata').should('be.visible');
-      cy.get('#post-feature-image').should('be.visible');
-    }
-  });
+  // it('shows the post title, feature image, and meta data', () => {
+  //   if (postCount > 0) {
+  //     cy.get('#post-title').should('be.visible');
+  //     cy.get('#post-metadata').should('be.visible');
+  //     cy.get('#post-feature-image').should('be.visible');
+  //   }
+  // });
   
-  it('shows the post content', () => {
-    if (postCount > 0) {
-      cy.get('#post-content').should('be.visible');
-    }
-  });
+  // it('shows the post content', () => {
+  //   if (postCount > 0) {
+  //     cy.get('#post-content').should('be.visible');
+  //   }
+  // });
 });
