@@ -43,8 +43,8 @@ export default {
     youtubeUrl: process.env.NUXT_ENV_YOUTUBE_CHANNEL_URL,
     items: [
       {
-        title: 'Blog',
-        href: '/blog'
+        title: 'Breakdowns',
+        href: '/breakdowns'
       },
       // {
       //   title: 'Portfolio',

@@ -6,7 +6,7 @@
           <p class="text-center md:text-left text-3xl font-bold">{{category.title}}</p>
           <p class="text-center md:text-left text-md">{{category.description}}</p>
         </div>
-        <p v-else class="text-center text-3xl font-bold">Blog</p>
+        <p v-else class="text-center text-3xl font-bold">Breakdowns</p>
       </div>
     </div>
     <divider />
@@ -58,7 +58,7 @@ import Divider from '@/components/Divider.vue';
 import PostPreview from '@/components/previews/Post.vue';
 
 export default {
-  name: 'blog-feed',
+  name: 'breakdowns-feed',
   components: {
     Divider,
     PostPreview,

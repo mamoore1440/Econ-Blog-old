@@ -17,7 +17,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: "This is a blog for econ ramblings."
+        content: "This is a site for econ ramblings."
       },
       { name: 'format-detection', content: 'telephone=no' }
     ],
@@ -62,7 +62,7 @@ export default {
         feed.options = {
           title: process.env.NUXT_ENV_FULL_NAME,
           link: `${process.env.NUXT_ENV_SITE_URL}/feed.xml`,
-          description: `Blog posts from ${process.env.NUXT_ENV_FULL_NAME}`,
+          description: `Breakdown posts from ${process.env.NUXT_ENV_FULL_NAME}`,
         };
 
         const posts = await $content('posts').sortBy('createdAt', 'asc').fetch();
@@ -91,7 +91,7 @@ export default {
       },
       cacheTime: 1000 * 60 * 15,
       type: 'rss2',
-      data: [`${process.env.NUXT_ENV_FULL_NAME}'s Blog Feed`]
+      data: [`${process.env.NUXT_ENV_FULL_NAME}'s Breakdown Feed`]
     }
   ],
 

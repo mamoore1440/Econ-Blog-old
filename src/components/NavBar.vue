@@ -42,8 +42,8 @@ export default {
     },
     items: [
       {
-        title: 'Blog',
-        href: '/blog'
+        title: 'Breakdowns',
+        href: '/breakdowns'
       },
       // {
       //   title: 'Portfolio',

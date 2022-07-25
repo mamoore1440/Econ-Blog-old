@@ -1,7 +1,7 @@
 <template>
   <main>
     <nav-bar :current-page="currentPage" />
-    <blog-feed :category="category" />
+    <breakdowns-feed :category="category" />
     <back-to-top-button />
     <footer-bar :current-page="currentPage" />
   </main>
@@ -9,7 +9,7 @@
 
 <script>
 import NavBar from '@/components/NavBar.vue';
-import BlogFeed from '@/components/BlogFeed.vue';
+import BreakdownsFeed from '@/components/BreakdownsFeed.vue';
 import FooterBar from '@/components/FooterBar.vue';
 import BackToTopButton from '@/components/BackToTopButton.vue';
 
@@ -17,7 +17,7 @@ export default {
   name: 'category',
   components: {
     NavBar,
-    BlogFeed,
+    BreakdownsFeed,
     BackToTopButton,
     FooterBar
   },
@@ -51,8 +51,8 @@ export default {
   },
   computed: {
     currentPage() {
-      // return this.category?.title === 'Portfolio' ? 'Portfolio' : 'Blog';
-      return 'Blog';
+      // return this.category?.title === 'Portfolio' ? 'Portfolio' : 'Breakdowns';
+      return 'Breakdowns';
     }
   }
 };
