@@ -9,14 +9,7 @@
     "generate": "nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "prepare": "husky install",
-    "lint": "npm run lint:js",
-    "test": "npm run unit && npm run e2e:headless",
-    "test:deploy": "npm run unit && npm run e2e:deploy",
-    "unit": "jest",
-    "e2e": "npm run generate && npm run start & wait-on http://localhost:3000 && wait-on cypress open",
-    "e2e:live": "cypress open",
-    "e2e:headless": "npm run generate && npm run start & wait-on http://localhost:3000 && cypress run --headless",
-    "e2e:deploy": "npm run generate && npm run start & wait-on http://localhost:3000 && cypress run --headless --record --key $CYPRESS_RECORD_KEY"
+    "lint": "npm run lint:js"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint"
