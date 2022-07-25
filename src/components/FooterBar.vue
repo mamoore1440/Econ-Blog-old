@@ -46,6 +46,10 @@ export default {
         title: 'Breakdowns',
         href: '/breakdowns'
       },
+      {
+        title: 'Current Events',
+        href: '/current-events'
+      },
       // {
       //   title: 'Portfolio',
       //   href: '/category/portfolio'

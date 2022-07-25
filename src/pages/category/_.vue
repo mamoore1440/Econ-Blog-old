@@ -2,6 +2,7 @@
   <main>
     <nav-bar :current-page="currentPage" />
     <breakdowns-feed :category="category" />
+    <current-events-feed :category="category" />
     <back-to-top-button />
     <footer-bar :current-page="currentPage" />
   </main>
@@ -10,6 +11,7 @@
 <script>
 import NavBar from '@/components/NavBar.vue';
 import BreakdownsFeed from '@/components/BreakdownsFeed.vue';
+import CurrentEventsFeed from '@/components/CurrentEventsFeed.vue';
 import FooterBar from '@/components/FooterBar.vue';
 import BackToTopButton from '@/components/BackToTopButton.vue';
 
@@ -18,6 +20,7 @@ export default {
   components: {
     NavBar,
     BreakdownsFeed,
+    CurrentEventsFeed,
     BackToTopButton,
     FooterBar
   },

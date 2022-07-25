@@ -2,7 +2,7 @@
   <main>
     <nav-bar current-page="Home" />
     <!-- <home :bio="bio" :portfolio-preview="portfolio" :blog-preview="blog" /> -->
-    <home :bio="bio" :breakdowns-preview="breakdowns" />
+    <home :bio="bio" :breakdowns-preview="breakdowns" :current-events-preview="currentEvents"/>
     <footer-bar current-page="Home" />
   </main>
 </template>
@@ -33,7 +33,8 @@ export default {
     return {
       bio: content.find(({ slug }) => slug === 'about'),
       // portfolio: content.find(({ slug }) => slug === 'portfolio-preview'),
-      breakdowns: content.find(({ slug }) => slug === 'breakdowns-preview')
+      breakdowns: content.find(({ slug }) => slug === 'breakdowns-preview'),
+      currentEvents: content.find(({ slug }) => slug === 'current-events-preview')
     };
   }
 };

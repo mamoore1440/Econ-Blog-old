@@ -28,7 +28,8 @@
 
     <div class="flex max-w-screen-lg mx-auto flex-wrap md:flex-nowrap">
       <!-- <page-preview :content="portfolioPreview" class="motion-safe:animate-fade-in" /> -->
-      <page-preview :content="BreakdownsPreview" class="motion-safe:animate-fade-in" />
+      <page-preview :content="breakdownsPreview" class="motion-safe:animate-fade-in" />
+      <page-preview :content="currentEventsPreview" class="motion-safe:animate-fade-in" />
     </div>
   </div>
 </template>
@@ -50,7 +51,11 @@ export default {
     //   type: Object,
     //   default: undefined
     // },
-    BreakdownsPreview: {
+    breakdownsPreview: {
+      type: Object,
+      default: undefined
+    },
+    currentEventsPreview: {
       type: Object,
       default: undefined
     },
