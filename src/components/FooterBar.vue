@@ -48,7 +48,7 @@ export default {
       },
       {
         title: 'Current Events',
-        href: '/current-events'
+        href: '/currentevents'
       },
       // {
       //   title: 'Portfolio',
