@@ -1,4 +1,4 @@
-WRITE BIO LATER.
+Hello All! This site is my econ blog. There are a couple types of posts I will be making: breakdowns, commentary, and current events. Firstly there will be breakdowns on products or systems. For instance you can see my breakdown of what a bond is and coming soon what the yield curve is. The next set of articles will be about commentary. For instance you will be able to see an article about how to ue the yield curve to your advantage. The final section is about current events. This section will be commentary or reporting on current events. Again the site is in its infancy; don't take anything as 100%. Finally there will be a THESIS post. This post will be my overall evaluation of what is going on. The Schizo sunay post is long af and essentially turn into me doing my THESIS<sub>tm</sub> post so I'm gonna split that post up into THESIS and schizo sunday (pure monkeypox).
 
 
 <!-- Update about.md, blog-preview.md, and portfolio-preview.md (maybe). Most likely just like github? -->
