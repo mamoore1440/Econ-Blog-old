@@ -1,6 +1,6 @@
 <template>
   <main>
-    <nav-bar current-page="Thesis" />
+    <nav-bar current-page="Trading" />
     <div class="max-w-screen-lg mx-auto">
       <div v-if="post" id="post-card" class="bg-card-light dark:bg-card-dark m-0 md:m-6 p-4 flex flex-wrap shadow-lg dark:shadow-shadow-dark hover:shadow-none hover:rounded motion-safe:animate-fade-in transition">
         <div class="w-full p-4">
@@ -69,15 +69,15 @@ import BackToTopButton from '@/components/BackToTopButton.vue';
 import FooterBar from '@/components/FooterBar.vue';
 
 export default {
-  name: 'thesis',
+  name: 'trading',
   components: {
     NavBar,
     BackToTopButton,
     FooterBar
   },
   async asyncData({ $content, params, error }) {
-    const post = await $content('thesis')
-      .where({ slug: "thesis" })
+    const post = await $content('trading')
+      .where({ slug: "trading" })
       .limit(1)
       .fetch()
       .catch((err) => {
@@ -87,14 +87,14 @@ export default {
           error: err,
         });
       });
-    const thesis = post[0];
+    const trading = post[0];
 
-    if (!thesis) {
-      return error({ statusCode: 404, message: 'Thesis doesn\'t exist.' });
+    if (!trading) {
+      return error({ statusCode: 404, message: 'Trading doesn\'t exist.' });
     }
 
     return {
-      post: thesis,
+      post: trading,
       isEditing: false,
       isDevMode: process.env.NODE_ENV === 'development'
     };

@@ -49,6 +49,14 @@ export default {
         title: 'Current Events',
         href: '/sections/current-events'
       },
+      {
+        title: 'Thesis',
+        href: '/thesis'
+      },
+      {
+        title: 'Trading',
+        href: '/trading'
+      },
       // {
       //   title: 'Portfolio',
       //   href: '/category/portfolio'
