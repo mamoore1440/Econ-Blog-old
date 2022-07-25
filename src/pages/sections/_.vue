@@ -1,7 +1,7 @@
 <template>
   <main>
     <nav-bar :current-page="currentPage" />
-    <posts-feed :category="category" />
+    <posts-feed :section="section" />
     <back-to-top-button />
     <footer-bar :current-page="currentPage" />
   </main>
@@ -14,7 +14,7 @@ import FooterBar from '@/components/FooterBar.vue';
 import BackToTopButton from '@/components/BackToTopButton.vue';
 
 export default {
-  name: 'category',
+  name: 'section',
   components: {
     NavBar,
     PostsFeed,
@@ -24,7 +24,7 @@ export default {
   async asyncData({ $content, params, error }) {
     const slug = params.pathMatch.toLowerCase();
 
-    const content = await $content('categories')
+    const content = await $content('sections')
       .fetch()
       .catch((err) => {
         error({
@@ -34,25 +34,25 @@ export default {
         });
       });
 
-      const category = content?.categories?.find((category) => category.slug === slug);
+      const section = content?.sections?.find((section) => section.slug === slug);
 
-      if (!category) {
-        return error({ statusCode: 404, message: 'This category could not be found' });
+      if (!section) {
+        return error({ statusCode: 404, message: 'This section could not be found' });
       }
 
     return {
-      category
+      section
     };
   },
   head() {
     return {
-      title: this.category?.title || process.env.NUXT_ENV_SITE_NAME || process.env.NUXT_ENV_FULL_NAME,
+      title: this.section?.title || process.env.NUXT_ENV_SITE_NAME || process.env.NUXT_ENV_FULL_NAME,
     };
   },
   computed: {
     currentPage() {
-      // return this.category?.title === 'Portfolio' ? 'Portfolio' : 'Breakdowns';
-      return 'Breakdowns';
+      // return this.section?.title === 'Portfolio' ? 'Portfolio' : 'Breakdowns';
+      return this.section?.title;
     }
   }
 };

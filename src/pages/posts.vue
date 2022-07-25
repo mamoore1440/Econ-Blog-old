@@ -1,23 +1,23 @@
 <template>
   <main>
-    <nav-bar current-page="Breakdowns" />
-    <breakdowns-feed />
+    <nav-bar current-page="Posts" />
+    <posts-feed />
   <back-to-top-button />
-    <footer-bar current-page="Breakdowns" />
+    <footer-bar current-page="Posts" />
   </main>
 </template>
 
 <script>
 import NavBar from '@/components/NavBar.vue';
-import BreakdownsFeed from '@/components/BreakdownsFeed.vue';
+import postsFeed from '@/components/PostsFeed.vue';
 import FooterBar from '@/components/FooterBar.vue';
 import BackToTopButton from '@/components/BackToTopButton.vue';
 
 export default {
-  name: 'breakdowns',
+  name: 'posts',
   components: {
     NavBar,
-    BreakdownsFeed,
+    postsFeed,
     BackToTopButton,
     FooterBar
   },

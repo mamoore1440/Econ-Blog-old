@@ -1,0 +1,7 @@
+sections:
+  - title: Breakdowns
+    slug: breakdowns
+    description: "This for breakdowns. The articles will exist on a scale of strickly factual to strickly commentary. The first article about bonds is strickly factual. The next article about the yield curve will be partly commentary."
+  - title: Current Events
+    slug: current-events
+    description: "This for current events. ADD MORE LATER"

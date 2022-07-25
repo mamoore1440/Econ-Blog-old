@@ -44,11 +44,11 @@ export default {
     items: [
       {
         title: 'Breakdowns',
-        href: '/breakdowns'
+        href: '/sections/breakdowns'
       },
       {
         title: 'Current Events',
-        href: '/currentevents'
+        href: '/sections/current-events'
       },
       // {
       //   title: 'Portfolio',

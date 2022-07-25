@@ -6,7 +6,11 @@
           <p class="text-center md:text-left text-3xl font-bold">{{category.title}}</p>
           <p class="text-center md:text-left text-md">{{category.description}}</p>
         </div>
-        <p v-else class="text-center text-3xl font-bold">Current Events</p>
+        <div v-else-if="section">
+          <p class="text-center md:text-left text-3xl font-bold">{{section.title}}</p>
+          <p class="text-center md:text-left text-md">{{section.description}}</p>
+        </div>
+        <p v-else class="text-center text-3xl font-bold">Posts</p>
       </div>
     </div>
     <divider />
@@ -58,13 +62,18 @@ import Divider from '@/components/Divider.vue';
 import PostPreview from '@/components/previews/Post.vue';
 
 export default {
-  name: 'current-events-feed',
+  name: 'posts-feed',
   components: {
     Divider,
     PostPreview,
   },
   props: {
     category: {
+      default: undefined,
+      type: Object,
+      required: false,
+    },
+    section: {
       default: undefined,
       type: Object,
       required: false,
@@ -98,6 +107,9 @@ export default {
         .sortBy('id', 'desc')
         .limit(totalPosts + 1);
       
+      if (this.section) {
+        fetchPosts = fetchPosts.where({section: { $contains: this.section.title }});  
+      }
       if (this.category) {
         fetchPosts = fetchPosts.where({categories: { $contains: this.category.title }});
       }
