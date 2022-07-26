@@ -50,14 +50,22 @@ export default {
         title: 'Current Events',
         href: '/sections/current-events'
       },
-      // {
-      //   title: 'Portfolio',
-      //   href: '/category/portfolio'
-      // },
       {
-        title: 'Contact',
-        href: '/contact'
-      }
+        title: 'Blog',
+        href: '/sections/blog'
+      },
+      {
+        title: 'Thesis',
+        href: '/thesis'
+      },
+      {
+        title: 'Trading',
+        href: '/trading'
+      },
+      // {
+      //   title: 'Contact',
+      //   href: '/contact'
+      // }
     ]
   }),
 };

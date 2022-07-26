@@ -50,6 +50,10 @@ export default {
         href: '/sections/current-events'
       },
       {
+        title: 'Blog',
+        href: '/sections/blog'
+      },
+      {
         title: 'Thesis',
         href: '/thesis'
       },
@@ -57,10 +61,6 @@ export default {
         title: 'Trading',
         href: '/trading'
       },
-      // {
-      //   title: 'Portfolio',
-      //   href: '/category/portfolio'
-      // }
     ],
   })
 };
