@@ -12,10 +12,12 @@ categories:
 <!--more-->
 
 
-| Ticker | Amount | Call/Put  | Strike  | Expiration Date | Purchase Date | Average Cost  | Sell  |
-| ------ | ------ | --------- | ------- | --------------- | ------------- | ------------- | ----- |
-| UVXY   | 5      | Call      | $13.5   | 8/5/22          | 7/22/22       | $0.43         |       |
-| UVXY   | 5      | Call      | $14     | 8/19/22         | 7/21/22       | $0.91         |       |
+| Purchase Date | Ticker | Amount | Call/Put  | Strike  | Expiration Date | Average Cost  | Sell  | %DELTA |
+| ------------- | ------ | ------ | --------- | ------- | --------------- | ------------- | ----- | ------ |
+| 7/22/22       | UVXY   | 5      | Call      | $13.5   | 8/5/22          | $0.43         | $0.46 | +7%    |
+| 7/21/22       | UVXY   | 5      | Call      | $14     | 8/19/22         | $0.91         |       |        |
 
 
 I'm not saying these trades will make me a million, but I am saying I hope these trades rack in the $$$. The 8/5/22 calls are degen af. Should not have bought those.
+
+I sold the 8/5/22 because they were at profit and as I said earlier it was degen af. 
