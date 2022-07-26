@@ -2,7 +2,7 @@
 title: Trading
 slug: trading
 date: 'July 25th, 2022'
-img: yields.png
+img: Vix-072622.png
 categories:
   - Investing
 ---
@@ -18,4 +18,4 @@ categories:
 | UVXY   | 5      | Call      | $14     | 8/19/22         | 7/21/22       | $0.91         |       |
 
 
-I'm not saying these trades will make me a million, but I am saying I hope these trades rack in teh $$$.
+I'm not saying these trades will make me a million, but I am saying I hope these trades rack in the $$$. The 8/5/22 calls are degen af. Should not have bought those.
