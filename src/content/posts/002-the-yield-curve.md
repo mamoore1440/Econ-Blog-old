@@ -1,6 +1,6 @@
 ---
 id: 2
-title: The Yield Curve
+title: "The Yield Curve"
 slug: the-yield-curve
 section: Breakdowns
 date: 'July 22nd, 2022'

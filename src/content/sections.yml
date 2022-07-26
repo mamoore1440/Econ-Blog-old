@@ -5,3 +5,6 @@ sections:
   - title: Current Events
     slug: current-events
     description: "This for current events. ADD MORE LATER"
+  - title: Blog
+    slug: blog
+    description: "Blog section. Let's go!"

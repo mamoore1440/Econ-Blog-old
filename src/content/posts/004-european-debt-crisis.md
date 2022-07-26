@@ -1,6 +1,6 @@
 ---
 id: 4
-title: The European Debt Crisis
+title: "The European Debt Crisis"
 slug: the-european-debt-crisis
 section: Current Events
 date: 'July 22nd, 2022'

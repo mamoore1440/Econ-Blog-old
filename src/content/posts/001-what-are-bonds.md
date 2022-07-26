@@ -1,6 +1,6 @@
 ---
 id: 1
-title: What are bonds?
+title: "What are bonds?"
 slug: what-are-bonds
 section: Breakdowns
 date: 'July 21st, 2022'
