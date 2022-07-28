@@ -11,11 +11,6 @@ Schizo Sunday
 - Maybe UFO click-bait articles?
 
 
-Pictures to Add: Maybe use DALLE?
+Pictures to Add (use dalle mini):
 - Blog
-  1. Bird in a cage
-  2. Jpow for FOMC meeting
-  3. A sad bear
 - Breakdowns
-  - Basic bond photo
-  - Basic yield curve photo

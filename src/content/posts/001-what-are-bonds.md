@@ -4,7 +4,7 @@ title: "What Are Bonds?"
 slug: what-are-bonds
 section: Breakdowns
 date: 'July 21st, 2022'
-img: department-of-the-treasury.png
+img: Financial-Bonds.png
 categories:
   - Foundational Information
   - Yields

@@ -4,7 +4,7 @@ title: "The Yield Curve"
 slug: the-yield-curve
 section: Breakdowns
 date: 'July 22nd, 2022'
-img: department-of-the-treasury.png
+img: Yield-Curve-Inversion.png
 categories:
   - Foundational Information
   - Yields
