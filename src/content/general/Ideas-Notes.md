@@ -50,6 +50,7 @@
       - Supply and Demand of money
 
 Now that is it formatted to economy/3 Sub sections there will be 3C2 connection posts. 
+Color and give a number based on Level (Characters is Last & 3 | stop at articles like Demographics, Psychology).
 Flip the empty space on its side and it becomes a fairly boring market.
 
 - What happened to get here (Story)
