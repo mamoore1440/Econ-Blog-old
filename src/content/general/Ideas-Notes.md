@@ -157,3 +157,11 @@ Schizo Sunday
 
 - Only Monkeypox. Has it's own section
 - Maybe UFO click-bait articles?
+
+Pictures to Add: Maybe use DALLE?
+- Blog
+  - Bird in a cage for the first blog post
+  - 
+- Breakdowns
+  - Basic bond photo
+  - Basic yield curve photo
