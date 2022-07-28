@@ -1,18 +1,18 @@
 <s>I think there are three (now four (now five)) overall "Sections"</s> It's all the economy. <s>about what is necessary to tell the 1900-2022 story.</s>
 
-- What a capitalist economy is (Characters)
-  - Wealth vs. Reality                        <!--Possible articles: -->
-    - Value
-      - The "Cliff"
-        - The difference between the reality of the future and your perceptions of the future
-          - Growth based mindsets and companies failing
-        - The difference between the your perception of the present and its reality
-          - Everyone failing
-      - QE
-        - How it inflates asset prices
-        - How it pulls demand forward
-        - Credit Crises
-  - Business Cycle                            <!--Possible articles: -->
+- What the American economy is (Characters)
+  - Wealth vs. Reality: A Story of Value                    <!--Possible articles: -->
+    - The "Cliff"
+      - The difference between the reality of the future and your perceptions of the future
+        - Growth based mindsets and companies failing
+      - The difference between the your perception of the present and its reality
+        - Everyone failing
+    - QE
+      - How it inflates asset prices
+      - How it pulls demand forward
+      - Credit Crises
+
+  - The Business Cycle: A Story of Life and Death           <!--Possible articles: -->
     - Death and rebirth of an economy.
       - Why it is necessary (Forest Fire)
       - Yield curve inversions as a predictor of death
@@ -24,12 +24,14 @@
       - Demand as a function Demographics
     - What a market is
       - Supply and Demand
+      - Bond & Stock Market
+      - Bull vs. Bear Market
       - Its "Existance" dictates a lot
         - Setting
         - Ruler
         - Participants
-      - Bond & Stock Market
-  - Money and Debt                            <!--Possible articles: -->
+  
+  - Money and Debt: A Story about the Shadows               <!--Possible articles: -->
     - Money
       - Money booms and Money busts (Temporality of money)
         - The yield curve as foresight
@@ -39,7 +41,10 @@
     - Liquidity
       - Bitcoin as a liquidity drain (QE)
     - THE DOLLAR IS KING!
-  - THEE CONSUMER                             <!--Possible articles: -->
+      - The global perspective
+      - Bretton woods 1 & 2
+  
+  - THEE CONSUMER: A Story about Humanity                   <!--Possible articles: -->
     - Psychology
       - The wealth effect
       - Spend cheap money but pay expensive debt! Tied at the hip
@@ -48,6 +53,38 @@
       - The yield curve as a "tracker" and what that means about the weight and volume of overall debt.
       - Inflation/Deflation
       - Supply and Demand of money
+
+Articles:
+1. The "Cliff" 
+2. QE
+3. Death and rebirth of an economy.
+4. Aggregate Supply and Aggregate Demand
+5. What a market is
+6. Money
+7. Debt
+8. Liquidity
+9. The Dollar is King
+10. Psychology
+11. Demographics
+
+Components:
+- Supply and Demand
+- The Yield Curve
+- Bond: basic debt (done)
+- Bitcoin
+
+Markets:
+- UST
+- Housing
+- Blue Chip
+- Growth (Tech)
+
+Special Events:
+- QE
+- Yield Curve Inversions
+- Credit Crises
+- Bull Market
+- Bear Market
 
 Now that is it formatted to economy/3 Sub sections there will be 3C2 connection posts. 
 Color and give a number based on Level (Characters is Last & 3 | stop at articles like Demographics, Psychology).
@@ -69,28 +106,33 @@ Flip the empty space on its side and it becomes a fairly boring market.
   - Y2K
     - Stock bubble *yeat*
     - Rate cuts my dude
+    - Oh no did someone blow a bubble??
   - 2008
-    - Oh no did someone get addicted to cheap debt?
+    - Oh no did someone get addicted to cheap debt??
     - Housing bubble
     - BRO IMAGINE HAVING A WORKING BUSINESS CYCLE
-    - Bitcoin :Eye raised emoji:
+    - Bitcoin :Eyebrow raised emoji:
   - Revivals
     - 2008
+      - QE
     - 2010
     - 2012
     - 2018
+      - Repo
     - 2020 (bailout of the century)
+      - Covid
     - ??? (no monkeypox is here)
-So the story would be the history of all this. Unfortunately, this looks like a lot of work.
-
-Talk about:  
-* Bretton woods
+So the story would be the history of all this. This would become the set and setting of our current event. 
+Unfortunately, this looks like a lot of work.
 
 
 Each page/year shold have a *STORY ARC*
-It would be ARCs stacked on top of each other that show the current strengths, weaknesses, and problems
- * WW2 on have good 
+It would be ARCs stacked on top of each other that show the current strengths, weaknesses, and problems of the economy
+ * WW2 until 70s have good economy (low problems)
  * 80s on have unproductive debt
+ * 04 on has bad housing bubble
+   * deflated a bit in 08, but worse now.
+ * Revival attemps also
 
 
 
