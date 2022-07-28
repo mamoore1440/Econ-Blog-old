@@ -2,7 +2,7 @@
 id: 1
 title: "What Are Bonds?"
 slug: what-are-bonds
-section: Breakdowns
+section: Concepts
 date: 'July 21st, 2022'
 img: Financial-Bonds.png
 categories:

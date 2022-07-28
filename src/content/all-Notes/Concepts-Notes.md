@@ -1,4 +1,4 @@
-- What the American economy is (Characters)
+- What the American economy is (Concepts)
   - Wealth vs. Reality: A Story of Value and Yield          <!--Possible articles: -->
     - The "Cliff"
       - The difference between the reality of the future and your perceptions of the future
@@ -12,7 +12,7 @@
 
   - The Business Cycle: A Story of Life and Death           <!--Possible articles: -->
     - Death and rebirth of an economy.
-      - Why it is necessary (Forest Fire)
+      - Why it is necessary (Forest Fire analogy)
       - Yield curve inversions as a predictor of death
       - End of cycle possibilities for credit crises
       - Revival Processes and attempts
@@ -59,7 +59,7 @@
       - Markets           4
       - Special Events    5
 
-Stories (or concepts):
+Concepts (or stories):
 - Wealth vs. Reality:   A Story of Value and Yield
 - The Business Cycle:   A Story of Life and Death
 - Money and Debt:       A Story About Temporality
@@ -87,8 +87,7 @@ Components:
 Markets:
 - UST
 - Housing
-- Blue Chip
-- Growth (Tech)
+- Stock
 
 Special Events:
 - QE
@@ -98,5 +97,5 @@ Special Events:
 - Bear Market
 
 Now that is it formatted to economy/4 Sub sections there will be 4C2 connection posts. 
-Color and give a number based on Level (Characters is Last & 3 | stop at articles like Demographics, Irrational Psychology).
+Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).
 Flip the empty space on its side and it becomes a fairly boring market.

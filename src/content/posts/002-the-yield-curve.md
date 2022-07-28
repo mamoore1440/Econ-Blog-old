@@ -2,7 +2,7 @@
 id: 2
 title: "The Yield Curve"
 slug: the-yield-curve
-section: Breakdowns
+section: Concepts
 date: 'July 22nd, 2022'
 img: Yield-Curve-Inversion.png
 categories:

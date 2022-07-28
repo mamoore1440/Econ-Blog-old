@@ -1,4 +1,4 @@
-- What happened to get here (Story)
+- What happened to get here (History)
   - 29
     - Credit bubble
     - Deflation
@@ -31,7 +31,7 @@
       - Covid
     - ??? (no monkeypox is here)
 
-Each page/year shold have a *STORY ARC*
+Each page/year/whatever shold have a *STORY ARC*
 It would be ARCs stacked on top of each other that show the current strengths, weaknesses, and problems of the economy
  * WW2 until 70s have good economy (low problems)
  * 80s on have unproductive debt
@@ -39,5 +39,5 @@ It would be ARCs stacked on top of each other that show the current strengths, w
    * deflated a bit in 08, but worse now.
  * Revival attemps also
 
-So the story would be the history of all this. This would become the set and setting of our current event. 
+This is the history of the American economy. This would become the set and setting of our current event. 
 Unfortunately, this looks like a lot of work.

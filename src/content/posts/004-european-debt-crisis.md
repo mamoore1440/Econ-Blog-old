@@ -2,7 +2,7 @@
 id: 4
 title: "The European Debt Crisis"
 slug: the-european-debt-crisis
-section: Current Events
+section: Concepts
 date: 'July 22nd, 2022'
 img: Department-Of-The-Treasury.png
 categories:
