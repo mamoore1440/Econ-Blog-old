@@ -160,8 +160,9 @@ Schizo Sunday
 
 Pictures to Add: Maybe use DALLE?
 - Blog
-  - Bird in a cage for the first blog post
-  - 
+  1. Bird in a cage for the
+  2. Jpow for FOMC meeting
+  3. TBD, a sad bear
 - Breakdowns
   - Basic bond photo
   - Basic yield curve photo
