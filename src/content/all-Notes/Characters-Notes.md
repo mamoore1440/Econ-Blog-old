@@ -29,7 +29,7 @@
         - Ruler
         - Participants
   
-  - Money and Debt: A Story about the Shadows               <!--Possible articles: -->
+  - Money and Debt: A Story About Temporality               <!--Possible articles: -->
     - Money
       - Money booms and Money busts (Temporality of money)
         - The yield curve as foresight
@@ -42,7 +42,7 @@
       - The global perspective
       - Bretton woods 1 & 2
   
-  - THEE CONSUMER: A Story about Humanity                   <!--Possible articles: -->
+  - THEE CONSUMER: A Story About Humanity                   <!--Possible articles: -->
     - Irrational Psychology
       - The wealth effect
       - Spend cheap money but pay expensive debt! Tied at the hip
@@ -59,11 +59,11 @@
       - Markets           4
       - Special Events    5
 
-Stories:
-- Wealth vs. Reality: A Story of Value and Yield
-- The Business Cycle: A Story of Life and Death
-- Money and Debt: A Story about the Shadows
-- THEE CONSUMER: A Story about Humanity
+Stories (or concepts):
+- Wealth vs. Reality:   A Story of Value and Yield
+- The Business Cycle:   A Story of Life and Death
+- Money and Debt:       A Story About Temporality
+- THEE CONSUMER:        A Story About Humanity
 
 Themes ("articles" (more like papers but still)):
 1. The "Cliff" 

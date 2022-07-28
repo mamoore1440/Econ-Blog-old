@@ -6,11 +6,9 @@ Trading
     - Yield Curve Inversion
 
 
-
 Schizo Sunday
 - Only Monkeypox. Has it's own section
 - Maybe UFO click-bait articles?
-
 
 
 Pictures to Add: Maybe use DALLE?
