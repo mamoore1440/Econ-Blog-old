@@ -1,7 +1,5 @@
-<s>I think there are three (now four (now five)) overall "Sections"</s> It's all the economy. <s>about what is necessary to tell the 1900-2022 story.</s>
-
 - What the American economy is (Characters)
-  - Wealth vs. Reality: A Story of Value                    <!--Possible articles: -->
+  - Wealth vs. Reality: A Story of Value and Yield          <!--Possible articles: -->
     - The "Cliff"
       - The difference between the reality of the future and your perceptions of the future
         - Growth based mindsets and companies failing
@@ -18,7 +16,7 @@
       - Yield curve inversions as a predictor of death
       - End of cycle possibilities for credit crises
       - Revival Processes and attempts
-    - Aggregate Supply and Aggregate Demand
+    - Economies as a function of Aggregate Supply and Aggregate Demand
       - Supply and Demand
       - All transactions and Psychologies
       - Demand as a function Demographics
@@ -140,7 +138,7 @@ Maybe two overall sections:
 STORY                         "Characters"
 
 
-There is literally no way I finish this before the crash
+There is literally no way I finish this before the crash. But that god I finally found something that gave me dopamine even after I learned everything in the system. My ADHD has prevented me from having joy from essentially anything, but now I finally have that joy and I have SOOO much of it from this. For sure I have a love hate relationship with ADHD.
 
 ----------------------------------------------------------------------------------------
 WEBSITE
