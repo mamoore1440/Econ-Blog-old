@@ -1,15 +1,1 @@
 Hello All! This site is my econ site/blog. There are a couple types of posts I will be making: breakdowns, and current events. Firstly there will be breakdowns on products or systems. These breakdowns will exist on a scale of strictly factual to commentary. For instance you can see my breakdown of what a bond is; this article is strickly factual. The next article is about the yield curve which will contain some commentary (maybe about how to use it to your advantage). The next section is about current events. This section will be commentary or reporting on current events. Again the site is in its infancy; don't take anything as 100%. The next set is Schizo Sunday in which I want to make clickbait and all around weird posts. Finally there will be a THESIS post. This post will be my overall evaluation of what is going on. The only Schizo sunay post is long af and essentially turn into me doing my THESIS<sub>(tm)</sub> post so I'm gonna split that post up into THESIS and schizo sunday (pure monkeypox).
-
-
-<!-- Update about.md, blog-preview.md, and portfolio-preview.md (maybe). Most likely just like github? -->
-
-
-<!--
-
-Sections I want:
-    - Strict-Commentary scaled Breakdowns
-    - Current Events (blog)
-    - Schizo Sunday (unhinged)
-    - Thesis (tm)
-
->

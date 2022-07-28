@@ -3,24 +3,25 @@ title: Trading
 slug: trading
 date: 'July 25th, 2022'
 img: Vix-072622.png
-categories:
-  - Investing
 ---
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm not writing a big thing here. That being said, I would like to track my trades and have it be public so I am going to start here and now. And we are going to start with UVXY. Vix is disgustingly cheap right now. (pic here: vix 1yr chart). I expect Vix could maybe drop for another week (likely) or two (extremely unlikely), but after that it is rising and fast. I did not buy any UVXY today however I have options bought last week that I will track here.</p>
+I'm not writing a big thing here. That being said, I would like to track my trades and have it be public so I am going to start here and now. And we are going to start with UVXY. Vix is disgustingly cheap right now. (pic here: vix 1yr chart). I expect Vix could maybe drop for another week (likely) or two (extremely unlikely), but after that it is rising and fast. I did not buy any UVXY today however I have options bought last week that I will track here.
+
+Vix is still cheap on 07/27/22. Bought a lot of calls today.
 
 <!--more-->
 
 
-| Purchase Date | Ticker | Amount | Call/Put  | Strike  | Expiration Date | Average Cost  | Sell  | %DELTA | Sell Date |
-| ------------- | ------ | ------ | --------- | ------- | --------------- | ------------- | ----- | ------ | --------- |
-| 7/22/22       | UVXY   | 5      | Call      | $13.5   | 8/5/22          | $0.43         | $0.46 | +7%    | 7/26/22   |
-| 7/21/22       | UVXY   | 5      | Call      | $14     | 8/19/22         | $0.91         |       |        |           |
-| 7/27/22       | UVXY   | 2      | Call      | $11     | 8/12/22         | $1.10         |       |        | *         |
+| Date     | Buy/Sell | Ticker | Amount | Call/Put | Strike | Expiration Date | Average Price | Total |
+| -------- | -------- | ------ | ------ | -------- | ------ | --------------- | ------------- | ----- |
+| 07/21/22 | Buy      | UVXY   | 5      | Call     | $14    | 08/19/22        | $0.91         | $455  |
+| 07/22/22 | Buy      | UVXY   | 5      | Call     | $13.5  | 08/5/22         | $0.43         | $215  |
+| 07/26/22 | Sell     | UVXY   | 5      | Call     | $13.5  | 08/5/22         | $0.46         | $230  |
+| 07/27/22 | Buy      | UVXY   | 2      | Call     | $11    | 08/12/22        | $1.10         | $220  |
+| 07/27/22 | Buy      | UVXY   | 2      | Call     | $14    | 08/19/22        | $.5           | $100  |
+| 07/27/22 | Buy      | UVXY   | 1      | Call     | $11    | 08/05/22        | $.69          | $69   |
 
-
-I'm not saying these trades will make me a million, but I am saying I hope these trades rack in the $$$. The 8/5/22 calls are degen af. Should not have bought those.
-
-I sold the 8/5/22 because they were at profit and as I said earlier it was degen af. 
-
-*First OTM options. Degen?
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
