@@ -65,7 +65,7 @@ Stories:
 - Money and Debt: A Story about the Shadows
 - THEE CONSUMER: A Story about Humanity
 
-Themes (articles):
+Themes ("articles" (more like papers but still)):
 1. The "Cliff" 
 2. QE
 3. Death and rebirth of an economy.
