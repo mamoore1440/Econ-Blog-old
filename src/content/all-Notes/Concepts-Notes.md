@@ -34,6 +34,7 @@
       - Money booms and Money busts (Temporality of money)
         - The yield curve as foresight
       - Fiat vs Gold Standard
+        - Growth fails when the base "Money" contracts
     - Debt
       - Productive vs Unproductive debt
       - Credit crises
@@ -54,13 +55,13 @@
       - Supply and Demand of money
 
 - Overall                 1
-  - Story                 4
+  - Concepts              4
     - Theme               11
       - Components        4
       - Markets           4
       - Special Events    5
 
-Concepts (or stories):
+Concepts:
 - Wealth vs. Reality:   A Story of Value and Yield
 - The Business Cycle:   A Story of Life and Death
 - Money and Debt:       A Story About Temporality
@@ -79,23 +80,35 @@ Themes ("articles" (more like papers but still)):
 10. Irrational Psychology
 11. Demographics
 
-Components:
-- Supply and Demand
-- The Yield Curve
-- Bond: basic debt (done)
-- Bitcoin
+                                  Pictures (all cartoonish):
+Components:                       2 base bricks and one on top
+- Supply and Demand               Basic Supply and Demand
+- The Yield Curve                 Basic Healthy Yield Curve
+- Bond: basic debt (done)         Basic Blue Bond
+- Stocks                          Basic Green/Red lines
+- Bitcoin                         Bitcoin
 
-Markets:
-- UST
-- Housing
-- Stock
+Markets:                          Emporium of Markets
+- UST                             NY Fed
+- Housing                         House
+- Stock                           Sky Scrapper
+- Growth                          Inserter / Car making robot
 
-Special Events:
-- QE
-- Yield Curve Inversions
-- Credit Crises
-- Bull Market
-- Bear Market
+Special Events:                   Purple Stars
+- QE                              Pill Bottle
+- Yield Curve Inversions          Inverted Yield Curve
+- Credit Crises                   Ball and Chain
+- Bull Market                     Bull Head
+- Bear Market                     Bear Head
+
+Fundamentals?     (picture: Atom):
+- Value
+- Yield
+- Cycles
+  - Life and Death
+  - Debt
+- Invisable Hand
+- Temporality
 
 Now that is it formatted to economy/4 Sub sections there will be 4C2 connection posts. 
 Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).

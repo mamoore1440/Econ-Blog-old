@@ -19,7 +19,6 @@ Trading | Blog | Thesis                                               Components
 
 Website: 
 - Trading
-- Schizo Sunday
 - Blog
 
 Learning the American Economy: 
