@@ -11,3 +11,6 @@ markets:
   - title: Growth
     slug: growth
     description: "A"
+  - title: Forex
+    slug: forex
+    description: "A"

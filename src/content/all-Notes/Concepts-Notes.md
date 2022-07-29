@@ -11,7 +11,7 @@
       - Credit Crises
 
   - The Business Cycle: A Story of Life and Death           <!--Possible articles: -->
-    - Death and rebirth of an economy.
+    - Death and Rebirth of an Economy.
       - Why it is necessary (Forest Fire analogy)
       - Yield curve inversions as a predictor of death
       - End of cycle possibilities for credit crises
@@ -28,7 +28,7 @@
         - Setting
         - Ruler
         - Participants
-  
+
   - Money and Debt: A Story About Temporality               <!--Possible articles: -->
     - Money
       - Money booms and Money busts (Temporality of money)
@@ -43,7 +43,7 @@
     - THE DOLLAR IS KING!
       - The global perspective
       - Bretton woods 1 & 2
-  
+
   - THEE CONSUMER: A Story About Humanity                   <!--Possible articles: -->
     - Irrational Psychology
       - The wealth effect
@@ -59,8 +59,9 @@
     - Theme               11
 
 - Components              6
-- Markets                 4
+- Markets                 5
 - Special Events          5
+- Fundamentals            5
 
 Concepts:
 - Wealth vs. Reality:   A Story of Value and Yield
@@ -71,7 +72,7 @@ Concepts:
 Themes ("articles" (more like papers but still)):
 1. The "Cliff" 
 2. QE
-3. Death and rebirth of an economy.
+3. Death and Rebirth of an Economy.
 4. Aggregate Supply and Aggregate Demand
 5. What a Market is
 6. Money
@@ -95,10 +96,11 @@ Markets:                          Emporium of Markets
 - Housing                         House
 - Stock                           Sky Scrapper
 - Growth                          Inserter / Car making robot
+- Forex                           Two different colored bills with two arrows going into each other 
 
 Special Events:                   Purple Stars
 - QE                              Pill Bottle
-- Yield Curve Inversions          Inverted Yield Curve
+- Yield Curve Inversion           Inverted Yield Curve
 - Credit Crises                   Ball and Chain
 - Bull Market                     Bull Head
 - Bear Market                     Bear Head
@@ -112,7 +114,7 @@ Fundamentals?                     Atom
 - Invisable Hand                  White hand
 - Temporality                     Hourglass
 
+Ignore for now:
+
 Now that is it formatted to economy/4 Sub sections there will be 4C2 connection posts. 
-
-
-Meybe: Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).
+Maybe: Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).

@@ -12,6 +12,8 @@ TODO:
   - Components
   - Markets
   - Special Events
+- Merge in the update from the Template
+  - Will require restructuring the entire website
 
 -----------------------------------------------------------------
 
