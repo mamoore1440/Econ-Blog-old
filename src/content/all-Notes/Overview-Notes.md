@@ -6,20 +6,28 @@ Other Notes Pages:
 - Concepts-Notes
 
 TODO:
-- You deleted categories.yml
-  - need to replace all instances of it with the three new .ymls
 - Delete European debt crisis
+  - wait
 - Create skeleton pages for the articles/papers
+  - Components
+  - Markets
+  - Special Events
 
 -----------------------------------------------------------------
 
 Mamoore                                                             History | Concepts The American Economy
-Trading | Blog | Thesis                                               Components | Markets | Special Events
+Trading | Blog | Thesis                                Components | Markets | Special Events | Fundamentals
+
+
+The American Economy: History | Concepts                                                          Mamoore
+Fundamentals | Components | Markets | Special Events                              Trading | Blog | Thesis
+
 
 
 Website: 
 - Trading
 - Blog
+- Thesis
 
 Learning the American Economy: 
 - History (Past of the American Economy)
@@ -30,5 +38,6 @@ Learning the American Economy:
   - Components
   - Markets
   - Special Events
+  - Fundamentals?
 
 There is literally no way I finish this before the crash. But thank god I finally found something that gave me dopamine even after I learned everything in the system. My ADHD has prevented me from having joy from essentially anything, but now I finally have that joy and I have SOOO much of it from this. For sure I have a love hate relationship with ADHD.

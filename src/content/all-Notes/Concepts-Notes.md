@@ -57,9 +57,10 @@
 - Overall                 1
   - Concepts              4
     - Theme               11
-      - Components        4
-      - Markets           4
-      - Special Events    5
+
+- Components              6
+- Markets                 4
+- Special Events          5
 
 Concepts:
 - Wealth vs. Reality:   A Story of Value and Yield
@@ -72,7 +73,7 @@ Themes ("articles" (more like papers but still)):
 2. QE
 3. Death and rebirth of an economy.
 4. Aggregate Supply and Aggregate Demand
-5. What a market is
+5. What a Market is
 6. Money
 7. Debt
 8. Liquidity
@@ -84,6 +85,7 @@ Themes ("articles" (more like papers but still)):
 Components:                       2 base bricks and one on top
 - Supply and Demand               Basic Supply and Demand
 - The Yield Curve                 Basic Healthy Yield Curve
+- The Dollar                      Basic Stack of Benjamins
 - Bond: basic debt (done)         Basic Blue Bond
 - Stocks                          Basic Green/Red lines
 - Bitcoin                         Bitcoin
@@ -103,15 +105,14 @@ Special Events:                   Purple Stars
 
 Fundamentals?                     Atom
 - Value                           Paper price tag 
-- Yield                           
+- Yield                           Tomato vine with lots of Tomatoes
 - Cycles                          Two arrows going into each other
   - Life and Death
-  - Debt
-- Invisable Hand
-- Temporality
+  - Debt                          
+- Invisable Hand                  White hand
+- Temporality                     Hourglass
 
 Now that is it formatted to economy/4 Sub sections there will be 4C2 connection posts. 
 
 
 Meybe: Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).
-Flip the empty space on its side and it becomes a fairly boring market.
