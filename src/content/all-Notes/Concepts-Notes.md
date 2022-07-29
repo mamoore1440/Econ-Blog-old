@@ -111,5 +111,7 @@ Fundamentals?     (picture: Atom):
 - Temporality
 
 Now that is it formatted to economy/4 Sub sections there will be 4C2 connection posts. 
-Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).
+
+
+Meybe: Color and give a number based on Level (Concepts is Last & 3 | stop at articles like Demographics, Irrational Psychology).
 Flip the empty space on its side and it becomes a fairly boring market.
