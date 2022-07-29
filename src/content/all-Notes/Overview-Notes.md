@@ -6,7 +6,10 @@ Other Notes Pages:
 - Concepts-Notes
 
 TODO:
-- 
+- You deleted categories.yml
+  - need to replace all instances of it with the three new .ymls
+- Delete European debt crisis
+- Create skeleton pages for the articles/papers
 
 -----------------------------------------------------------------
 
