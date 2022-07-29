@@ -2,7 +2,7 @@
 title: Thesis
 slug: thesis
 date: 'July 25th, 2022'
-img: Department-Of-The-Treasury.png
+img: Bird-In-A-Cage.png
 categories:
   - Psychology
   - The Flations

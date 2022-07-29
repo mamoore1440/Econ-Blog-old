@@ -101,10 +101,10 @@ Special Events:                   Purple Stars
 - Bull Market                     Bull Head
 - Bear Market                     Bear Head
 
-Fundamentals?     (picture: Atom):
-- Value
-- Yield
-- Cycles
+Fundamentals?                     Atom
+- Value                           Paper price tag 
+- Yield                           
+- Cycles                          Two arrows going into each other
   - Life and Death
   - Debt
 - Invisable Hand
