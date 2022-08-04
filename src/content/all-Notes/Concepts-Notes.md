@@ -96,6 +96,7 @@ Markets:                          Emporium of Markets
 - Housing                         House
 - Stock                           Sky Scrapper
 - Growth                          Inserter / Car making robot
+- Credit                          Dollar with a white "shadow" dollar behind it
 - Forex                           Two different colored bills with two arrows going into each other 
 
 Special Events:                   Purple Stars
