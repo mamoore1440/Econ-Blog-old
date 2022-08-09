@@ -4,7 +4,7 @@ title: "Schizo Sunday: Monkeypox 3 I'm bored"
 slug: schizo-sunday-monkeypox-3
 section: Blog
 date: 'August 7th, 2022'
-img: Monkeypox-2.png
+img: Monkeypox-3.png
 categories:
   - Psychology
 ---
