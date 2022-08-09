@@ -1,6 +1,6 @@
 ---
 id: 15
-title: "Schizo Sunday: Monkeypox 3 I'm bored"
+title: "Schizo Sunday: Monkeypox 3, Vaccines, Vaccines, Vaccines"
 slug: schizo-sunday-monkeypox-3
 section: Blog
 date: 'August 7th, 2022'
