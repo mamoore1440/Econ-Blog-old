@@ -59,7 +59,7 @@
     - Theme               11
 
 - Components              6
-- Markets                 5
+- Markets                 6
 - Special Events          5
 - Fundamentals            5
 

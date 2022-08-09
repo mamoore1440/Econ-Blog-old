@@ -53,10 +53,8 @@ Even with all this unsettling news India comes in with the worst: "A team of Ind
 
 Blips from [article](https://www.business-standard.com/article/current-affairs/monkeypox-strain-in-india-different-from-europe-says-icmr-niv-study-122072901209_1.html):
 - "A team of Indian scientists have found that the monkeypox virus strain circulating in the country is different from the strain that caused 'superspreader events' in Europe, leading to a global outbreak of the disease.
-
-The team from Indian Council of Medical Research-National Institute of Virology (ICMR-NIV), Pune, conducted genetic sequencing of two monkeypox cases from Kerala.
-
-The data showed that the virus strain present in the country is A.2, that was recently imported to India from the Middle East. It was earlier present in Thailand and the US during the 2021 outbreak. However, the strain that caused superspreader events in Europe, was due to B.1."
+- The team from Indian Council of Medical Research-National Institute of Virology (ICMR-NIV), Pune, conducted genetic sequencing of two monkeypox cases from Kerala.
+- The data showed that the virus strain present in the country is A.2, that was recently imported to India from the Middle East. It was earlier present in Thailand and the US during the 2021 outbreak. However, the strain that caused superspreader events in Europe, was due to B.1."
 - "We might be looking at a distinct cluster of human-human transmission and possibly unrecognised for years. The earliest sample in the cluster from the US is indeed from 2021 suggesting the virus has been in circulation for quite some time, and earlier than the European events," he added.
 
 Now this is a variant from a 2021 outbreak in America which as far as I can tell involved only one person. In my opinion this is not something to freak out about as this looks like its just a coincident. However, if this variant keeps spreading in India then I would be EXTREMELY concerned. This is something I will watch and update in a future schizo sunday if this (Indian) situation gets worse. And by worse I literally mean India has >10 cases. Because if America could stop it a 1 case in 2021 then India should be able to stop the variant at 1 too: and if they can't then I would say it's game over for containment. As we saw with Covid immunity from one variant is not immunity from another. And it doesn't just have to be immunity; the brief natural resistance didn't always carry over.
