@@ -4,7 +4,7 @@ title: "Schizo Sunday: It's All Over! How Monkeypox will Crash the Market."
 slug: schizo-sunday-monkeypox
 section: Blog
 date: 'July 24th, 2022'
-img: Monkeypox-Lab-Test.png
+img: Monkeypox-1.png
 categories:
   - Psychology
   - The Flations
