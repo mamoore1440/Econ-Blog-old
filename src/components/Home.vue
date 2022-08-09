@@ -41,7 +41,7 @@ import PagePreview from '@/components/previews/Page.vue';
 export default {
   name: 'home',
   components: {
-    PagePreview
+    PagePreview,
   },
   props: {
     bio: {

@@ -5,9 +5,10 @@
         <nav-item
           v-for="item in items"
           :key="item.title"
-          :title="item.title"
           :href="item.href"
-        />
+        >
+          {{ item.title }}
+        </nav-item>
       </div>
 
       <div>
@@ -62,10 +63,6 @@ export default {
         title: 'Trading',
         href: '/trading'
       },
-      // {
-      //   title: 'Contact',
-      //   href: '/contact'
-      // }
     ]
   }),
 };
